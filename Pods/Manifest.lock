@@ -1,0 +1,85 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Differentiator (3.1.0)
+  - HandyJSON (5.0.1)
+  - Kingfisher (5.14.0):
+    - Kingfisher/Core (= 5.14.0)
+  - Kingfisher/Core (5.14.0)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Moya/RxSwift (13.0.1):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - PKHUD (5.3.0)
+  - ReactiveCocoa (10.3.0):
+    - ReactiveSwift (~> 6.2)
+  - ReactiveSwift (6.3.0)
+  - Result (4.1.0)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.5.0)
+  - SnapKit (5.0.1)
+  - SwiftyFitsize (1.0.1)
+  - SwiftyJSON (5.0.0)
+  - ZKCycleScrollView-Swift (2.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON
+  - Kingfisher
+  - Moya/RxSwift
+  - PKHUD
+  - ReactiveCocoa
+  - RxCocoa
+  - RxDataSources (~> 3.0)
+  - RxSwift
+  - SnapKit
+  - SwiftyFitsize
+  - SwiftyJSON
+  - ZKCycleScrollView-Swift
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Alamofire
+    - Differentiator
+    - HandyJSON
+    - Kingfisher
+    - Moya
+    - PKHUD
+    - ReactiveCocoa
+    - ReactiveSwift
+    - Result
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SnapKit
+    - SwiftyFitsize
+    - SwiftyJSON
+    - ZKCycleScrollView-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  Kingfisher: 7b64389a43139c903ec434788344c288217c792d
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  ReactiveCocoa: 083ae559e6f588ce519cab412ea119b431c26a24
+  ReactiveSwift: 7937f26ec18d555e2a99352bd0a8b2817d1f042d
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyFitsize: ea06788e0c57b818112e238070bdfa9800aedc21
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  ZKCycleScrollView-Swift: c5d6c4aa5576a9bee2361ecd6c6e89996d9fd5d8
+
+PODFILE CHECKSUM: 755e08ed5f9bd34cca1e5b290dc2fe5b3356155f
+
+COCOAPODS: 1.9.2

@@ -1,0 +1,6 @@
+framework module ZKCycleScrollView_Swift {
+  umbrella header "ZKCycleScrollView-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
